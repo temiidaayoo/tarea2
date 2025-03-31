@@ -16,9 +16,5 @@ public class MenuPrincipal {
         System.out.println("Hola 5");
 
         
-        System.out.println("Hola 6");
-
-
-        
     }
 }
